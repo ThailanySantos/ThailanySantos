@@ -11,6 +11,16 @@
 <p align="center">Estudante de Engenharia da Computação e Dev Front-End, apaixonada por tecnologia e design, unindo ambos na vida profissional.</p>
 
 ###
+###
+
+<h2 align="center">👾 CONTRIBUIÇÕES</h2>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ThailanySantos/ThailanySantos/output/snake.svg" alt="Snake animation" />
+
 
 <h2 align="center">👩🏽‍💻 SOBRE MEU PERFIL</h2>
 
@@ -53,14 +63,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ThailanySantos/ThailanySantos/output/snake.svg" alt="Snake animation" />
 
 ###
 
