@@ -60,8 +60,9 @@
 
 ###
 
-![snake animation](https://github.com/ThailanySantos/ThailanySantos/blob/output/snake.svg)
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/ThailanySantos/ThailanySantos/output/snake.svg" alt="Snake animation" />
 
 ###
 
