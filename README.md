@@ -32,7 +32,9 @@
 
 ###
 
-<h3 align="center">🌟 PRINCIPAIS TECNOLOGIAS</h3>
+<br clear="both">
+
+<h2 align="center">🌟 PRINCIPAIS TECNOLOGIAS</h2>
 
 ###
 
@@ -58,6 +60,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">🫂 ENTRE EM CONTATO!</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thailany-santos-828867299/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrlQngFpjLHbrjfznKkbXBdKbssvXmtLNvtfqHZlDShhDTttqKLsvkfWPhJcxRdzrsNXkQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.link/9hwbft" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
