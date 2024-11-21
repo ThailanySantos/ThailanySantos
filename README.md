@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="center">Estudante de Engenharia da Computação e Dev Front-End, apaixonada por tecnologia e design, unindo ambos na vida profissional.</p>
+<p align="center">Estudante de Engenharia de Software e Dev Front-End, apaixonada por tecnologia e design, unindo ambos na vida profissional.</p>
 
 ###
 
