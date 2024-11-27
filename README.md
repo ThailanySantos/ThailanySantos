@@ -39,10 +39,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThailanySantos&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=pt-br&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThailanySantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ThailanySantos&locale=pt-br&mode=weekly&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThailanySantos&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=rose_pine&locale=pt-br&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThailanySantos&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=true" height="160" alt="languages graph" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ThailanySantos&locale=pt-br&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5" height="160" alt="streak graph" />
+</div>
+
 
 ###
 
