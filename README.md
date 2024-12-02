@@ -43,11 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThailanySantos&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=rose_pine&hide_border=true" height="160" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThailanySantos&locale=pt-br&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5" height="160" alt="streak graph" />
-</div>
-
-
 ###
 
 <br clear="both">
