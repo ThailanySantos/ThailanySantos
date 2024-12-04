@@ -10,7 +10,8 @@
 
 <br clear="both">
 
-<p align="center">Estudante de Engenharia de Software e Dev Front-End, apaixonada por tecnologia e design, unindo ambos na vida profissional.</p>
+<p align="center">Estudante de Engenharia de Software, Desenvolvedora Front-End e Estágiária de QA
+apaixonada por tecnologia e design, construindo uma carreira em desenvolvimento web com foco na criação de interfaces intuitivas, qualidade de software e experiência do usuário.</p
 
 ###
 <div align="center">
@@ -70,7 +71,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
 
 ###
@@ -78,10 +78,8 @@
 <h2 align="center">📚 ESTOU APRENDENDO</h2>
 
 ###
-
-<br clear="both">
-
 <div align="center">
+<br clear="both">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
@@ -92,7 +90,15 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" height="50" alt="junit logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="selenium logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="50" alt="cucumber logo" />
+  <div style="display: inline-block; background-color: white; padding: 10px; border-radius: 5px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="50" alt="Express logo" />
+</div>
+
 </div>
 
 
