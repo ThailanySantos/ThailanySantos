@@ -10,8 +10,8 @@
 
 <br clear="both">
 
-<p align="center">Estudante de Engenharia de Software, Desenvolvedora Front-End e Estágiária de QA
-apaixonada por tecnologia e design, construindo uma carreira em desenvolvimento web com foco na criação de interfaces intuitivas, qualidade de software e experiência do usuário.</p
+<p align="center">Estudante de Engenharia de Software, UX Designer com experiência em desenvolvimento front-end e garantia de qualidade.
+apaixonada por tecnologia e design, construindo uma carreira em Design com foco na criação de interfaces intuitivas, qualidade de software e experiência do usuário.</p
 
 ###
 <div align="center">
